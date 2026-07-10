@@ -385,4 +385,12 @@ export const clients = [
     instructionsUrl: "https://deepcode.vegamo.cn/en/docs/configuration/agent-skills",
     sourceCodeUrl: "https://github.com/lessweb/deepcode-cli",
   },
+  {
+    name: "Pulumi Neo",
+    description: "Pulumi Neo is an AI agent that manages cloud infrastructure with Pulumi. It runs in Pulumi Cloud, the CLI, GitHub, and Slack, and works within your organization's policies and approvals.",
+    url: "https://www.pulumi.com/product/neo/",
+    lightSrc: "/images/logos/pulumi-neo/pulumi-neo-logo-light.svg",
+    darkSrc: "/images/logos/pulumi-neo/pulumi-neo-logo-dark.svg",
+    instructionsUrl: "https://www.pulumi.com/docs/ai/skills/",
+  },
 ];
